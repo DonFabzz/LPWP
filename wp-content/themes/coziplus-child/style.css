@@ -1,0 +1,19 @@
+/*
+Theme Name: Cozipress child
+Template: cozipress
+Text Domain: cozipress-child
+*/
+
+
+body{
+    background-color: #02cfaa;
+}
+
+.template-h1{
+    margin: auto;
+    text-align: center;
+}
+
+.post-citation{
+    width: 80%;
+}

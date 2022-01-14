@@ -1,0 +1,1 @@
+alert('Vous êtes sur la page blog ( ce message vous à été transmit grace à un hook')
